@@ -1,0 +1,235 @@
+Rank,Country,Population
+1,Indien,1 425 775 850
+2,Kina[a],1 411 750 000
+3,USA,331 449 281
+4,Indonesien,270 203 917
+5,Pakistan,220 892 000
+6,Brasilien,211 755 692
+7,Nigeria,206 140 000
+8,Bangladesh,164 689 000
+9,Ryssland[b],146 171 015
+10,Mexiko,126 014 024
+11,Japan,125 360 000
+12,Etiopien,114 964 000
+13,Filippinerna,109 581 000
+14,Egypten,101 853 508
+15,Vietnam,97 580 000
+16,Kongo-Kinshasa,89 561 000
+17,Turkiet,84 680 273
+18,Iran,83 993 000
+19,Tyskland,83 695 430
+20,Thailand,69 800 000
+21,Frankrike[c],67 413 000
+22,Storbritannien[d],66 796 800
+23,Tanzania,59 734 000
+24,Italien,59 641 488
+25,Sydafrika,59 622 350
+26,Myanmar,53 371 000
+27,Sydkorea,51 732 586
+28,Colombia,49 784 783
+29,Kenya,49 700 000
+30,Spanien,46 549 045
+31,Argentina,44 044 811
+32,Uganda,42 863 000
+33,Ukraina[e],42 501 767
+34,Algeriet,41 318 000
+35,Sudan,40 533 000
+36,Polen,38 424 000
+37,Irak,38 275 000
+38,Kanada,36 503 097
+39,Marocko[f],35 740 000
+40,Afghanistan,35 530 000
+41,Saudiarabien,32 612 641
+42,Malaysia,32 399 555
+43,Peru,32 166 000
+44,Uzbekistan,32 120 500
+45,Venezuela,31 977 000
+46,Angola,29 784 000
+47,Moçambique,29 669 000
+48,Nepal,29 218 867
+49,Ghana,28 834 000
+50,Jemen,28 250 000
+51,Madagaskar,25 571 000
+52,Nordkorea,25 491 000
+53,Australien[g],24 702 900
+54,Elfenbenskusten,24 571 044
+55,Taiwan[h],23 547 448
+56,Kamerun,23 248 044
+57,Sri Lanka,21 670 000
+58,Niger,21 466 863
+59,Burkina Faso,20 244 080
+60,Rumänien,19 630 000
+61,Malawi,18 622 000
+62,Syrien,18 270 000
+63,Mali,18 542 000
+64,Kazakstan,18 204 000
+65,Chile,17 574 003
+66,Nederländerna[i],17 202 437
+67,Zambia,17 094 000
+68,Guatemala,16 914 000
+69,Ecuador,16 625 000
+70,Zimbabwe,16 530 000
+71,Kambodja,16 005 000
+72,Senegal,15 726 037
+73,Tchad,15 353 000
+74,Somalia,15 182 000
+75,Sydsudan,12 576 000
+76,Rwanda,12 089 721
+77,Guinea,11 883 516
+78,Tunisien,11 532 000
+79,Benin,11 362 269
+80,Belgien,11 322 088
+81,Kuba,11 239 224
+82,Bolivia,11 052 000
+83,Haiti,10 981 000
+84,Jordanien,10 878 904
+85,Burundi,10 681 186
+86,Sverige,10 551 707
+87,Tjeckien,10 516 707
+88,Grekland,10 432 481
+89,Portugal,10 341 330
+90,Dominikanska republiken,10 226 149
+91,Azerbajdzjan,9 898 085
+92,Ungern,9 771 000
+93,Belarus,9 484 300
+94,Förenade arabemiraten,9 366 829
+95,Honduras,9 265 000
+96,Israel,9 190 000
+97,Tadzjikistan,8 921 000
+98,Österrike,8 822 267
+99,Schweiz,8 482 200
+100,Papua Nya Guinea,8 251 000
+101,Togo,7 798 000
+102,Sierra Leone,7 557 000
+—,Hongkong (Kina),7 409 800
+103,Bulgarien,7 050 034
+104,Serbien[j],7 040 272
+105,Laos,6 858 000
+106,Paraguay,6 811 000
+107,El Salvador,6 378 000
+108,Libyen,6 375 000
+109,Nicaragua,6 218 000
+110,Libanon,6 082 000
+111,Kirgizistan,6 045 000
+112,Danmark[k],5 961 249
+113,Turkmenistan,5 758 000
+114,Singapore,5 612 300
+115,Finland,5 517 919
+116,Slovakien,5 443 120
+117,Norge,5 391 369
+118,Kongo-Brazzaville,5 261 000
+119,Eritrea,5 069 000
+120,Costa Rica,4 947 490
+121,Nya Zeeland[l],4 844 200
+122,Palestina[m],4 816 503
+123,Irland,4 761 865
+124,Liberia,4 732 000
+125,Centralafrikanska republiken,4 659 000
+126,Oman,4 636 000
+127,Mauretanien,4 420 000
+128,Kroatien,4 154 213
+129,Panama,4 099 000
+130,Kuwait,4 082 704
+131,Georgien,3 729 600
+132,Moldavien,3 550 900
+133,Bosnien och Hercegovina,3 511 372
+134,Uruguay,3 493 205
+—,Puerto Rico (USA),3 337 177
+135,Mongoliet,3 177 899
+136,Armenien,2 972 900
+137,Albanien,2 876 591
+138,Litauen,2 847 904
+139,Jamaica,2 728 864
+140,Qatar,2 706 817
+141,Namibia,2 534 000
+142,Botswana,2 292 000
+143,Lesotho,2 233 000
+144,Gambia,2 101 000
+145,Nordmakedonien,2 071 278
+146,Slovenien,2 065 895
+147,Gabon,2 025 000
+148,Lettland,1 923 500
+149,Kosovo[n],1 790 841
+150,Guinea-Bissau,1 565 815
+151,Bahrain,1 451 200
+152,Trinidad och Tobago,1 369 000
+153,Estland,1 319 133
+154,Östtimor,1 296 000
+155,Ekvatorialguinea,1 268 000
+156,Mauritius,1 265 000
+157,Swaziland,1 172 000
+158,Djibouti,957 000
+159,Fiji,884 887
+160,Cypern[o],875 900
+161,Komorerna,814 000
+162,Bhutan,808 000
+163,Guyana,778 000
+—,Macao (Kina),656 700
+164,Montenegro,622 359
+165,Salomonöarna,611 000
+166,Luxemburg,602 005
+167,Surinam,563 000
+—,Västsahara[p],553 000
+168,Kap Verde,546 000
+169,Malta,460 297
+170,Maldiverna,436 000
+171,Brunei,429 000
+172,Bahamas,395 000
+173,Belize,387 879
+174,Island,376 248
+175,Barbados,286 000
+—,Franska Polynesien (Frankrike),275 918
+176,Vanuatu,272 459
+—,Nya Kaledonien (Frankrike),268 767
+177,São Tomé och Príncipe,204 000
+178,Samoa,196 315
+179,Saint Lucia,179 000
+—,Guam (USA),169 500
+—,Curaçao (Nederländerna),160 012
+—,Aruba (Nederländerna),111 081
+180,Saint Vincent och Grenadinerna,110 000
+181,Kiribati,109 693
+182,Grenada,108 000
+—,Amerikanska Jungfruöarna (USA),105 000
+183,Mikronesiska federationen,104 600
+—,Jersey (Storbritannien),104 200
+184,Antigua och Barbuda,102 000
+185,Tonga,100 745
+186,Seychellerna,94 205
+—,Isle of Man (Storbritannien),83 314
+187,Andorra,78 264
+188,Dominica,74 000
+—,Bermuda (Storbritannien),63 917
+—,Caymanöarna (Storbritannien),63 415
+—,Guernsey (Storbritannien),62 193
+—,Amerikanska Samoa (USA),56 400
+—,Grönland (Danmark),55 877
+—,Nordmarianerna (USA),55 700
+189,Saint Kitts och Nevis,55 000
+189,Marshallöarna,55 000
+—,Färöarna (Danmark),50 498
+—,Sint Maarten (Nederländerna),40 535
+—,Turks- och Caicosöarna (Storbritannien),39 792
+191,Monaco,38 300
+192,Liechtenstein,38 111
+—,Saint-Martin (Frankrike),35 684
+—,Gibraltar (Storbritannien),33 573
+193,San Marino,33 326
+—,Brittiska Jungfruöarna (Storbritannien),29 151
+194,Palau,17 661
+—,Cooköarna (Nya Zeeland),17 459
+—,Anguilla (Storbritannien),14 723
+—,Wallis- och Futunaöarna (Frankrike),12 197
+195,Nauru,10 800
+196,Tuvalu,10 100
+—,Saint-Barthélemy (Frankrike),9 625
+—,Saint-Pierre och Miquelon (Frankrike),6 021
+—,"Sankta Helena, Ascension och Tristan da Cunha (Storbritannien)",5 633
+—,Montserrat (Storbritannien),4 922
+—,Falklandsöarna (Storbritannien),2 840
+—,Niue (Nya Zeeland),1 611
+—,Tokelau (Nya Zeeland),1 285
+197,Vatikanstaten,1 000
+—,Pitcairnöarna (Storbritannien),50
+—,Brittiska territoriet i Indiska oceanen (Storbritannien),0
+—,Sydgeorgien och Sydsandwichöarna (Storbritannien),0
